@@ -1,16 +1,30 @@
-### Hi there 👋
+# Olá! Eu sou o Lucas 👨‍💻
 
-<!--
-**LucDJoker/LucDJoker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="left">
 
-Here are some ideas to get you started:
+### Sobre mim
+Estudante de Ciência da Computação construindo soluções focadas em automação, integração de dados e arquitetura de sistemas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎓 Graduando em Ciência da Computação (Previsão: 2027)
+* ⚙️ Base lógica forjada em **C#** com foco atual e total no ecossistema **Python** (Backend e IA).
+* 🚀 Arquiteto e desenvolvedor de um SaaS de precificação integrado com **Supabase**.
+* 🤖 Explorando ferramentas de Automação Web (RPA) como **Selenium**.
+* 🔧 Entusiasta da cultura Maker, impressão 3D e manutenção de hardware.
+
+<br>
+
+### Tecnologias & Ferramentas
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,supabase,cs,selenium,git,vscode,windows,html,css" />
+  </a>
+</p>
+
+<br>
+
+### Minhas Estatísticas
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucDJoker&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+</div>
