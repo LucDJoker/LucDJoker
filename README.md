@@ -16,7 +16,7 @@ Estudante de Ciência da Computação construindo soluções focadas em automaç
 ### Tecnologias & Ferramentas
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,supabase,cs,selenium,git,vscode,windows" />
+    <img src="https://skillicons.dev/icons?i=py,js,sql,supabase,cs,selenium,git,vscode,windows" />
   </a>
 </p>
 
